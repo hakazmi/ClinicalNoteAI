@@ -76,7 +76,7 @@ cd clinical-note-generator
 ```bash
 
 https://1234abcd.ngrok-free.app
-``
+```
 - Copy this URL — it’s your backend endpoint.
 
 ### 🟥 Step 4 — Paste ngrok URL into the Frontend
